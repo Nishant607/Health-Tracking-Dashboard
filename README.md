@@ -27,6 +27,14 @@ It offers a clean, user-friendly interface with graphical representations to mak
 ## 📷 Screenshots
 
 ![Screenshot 2025-04-27 182116](https://github.com/user-attachments/assets/1f9dfd78-9ae7-4fc2-8e82-6d0bdd802320)
+![Screenshot 2025-04-27 182200](https://github.com/user-attachments/assets/cc7a0b9c-88c9-48fe-ac46-116ba9a069ab)
+![Screenshot 2025-04-27 182234](https://github.com/user-attachments/assets/7dd095dd-5952-45c5-bae7-e18e26031bc4)
+![Screenshot 2025-04-27 182258](https://github.com/user-attachments/assets/bba15162-0d3d-46f6-87ba-d67be9d9c494)
+![Screenshot 2025-04-27 182315](https://github.com/user-attachments/assets/cdf3e36f-e9f6-40e9-b0a6-43b4113d8587)
+
+
+
+
 
 
 ## 🚀 How to Run the Project
